@@ -1,4 +1,5 @@
 # news-trends
+The project collect and analyze israeli news articles from several sources.
 
 ### Server
 Written in python, using python flask and postgresql.
