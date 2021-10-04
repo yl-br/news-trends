@@ -9,4 +9,4 @@ Written with VueJs 3.
 ## Live Demo
 https://news-trends-2021.herokuapp.com
 
-* Tested for desktop screen, takes time for first load.
+\* Tested for desktop screen. takes time for first load.
