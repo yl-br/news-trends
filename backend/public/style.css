@@ -1,0 +1,66 @@
+.header{
+    background-color:#052C65;
+}
+
+button.disable-blue:not(.collapsed){
+    color: inherit;!important;
+    background-color: inherit;!important;
+    box-shadow: inherit;!important;
+}
+
+button.disable-blue:focus{
+    color: inherit;!important;
+    background-color: inherit;!important;
+    box-shadow: inherit;!important;
+}
+
+#day-trends-carousel:hover{
+    /*border: black 1px solid;*/
+    /*margin: -1px;*/
+    background-color: white;
+    border-radius: 5px;
+}
+
+
+#connected-terms-container .vis-network:focus{
+    outline: none;
+}
+
+#network-container .vis-network:focus{
+    outline: none;
+}
+
+#network-container {
+    /*border: 7px solid slategray;*/
+}
+
+#network-container > .vis-network {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+#network-container > .vis-network:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 5px;
+}
+
+/* Add some padding inside the card container */
+.container {
+    padding: 2px 16px;
+}
+
+
+#network-container > .vis-network {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+
+.disable-progress-background{
+    background-color: transparent;!important;
+
+}

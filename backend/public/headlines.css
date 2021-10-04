@@ -1,0 +1,10 @@
+a.headlines-title-link{
+    color: inherit;
+    text-decoration: none;
+}
+
+a.headlines-title-link:hover{
+    color:#00A0C6;
+    text-decoration:none;
+    cursor:pointer;
+}

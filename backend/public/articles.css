@@ -1,0 +1,9 @@
+a.articles-title-link{
+    color: inherit;
+}
+
+a.articles-title-link:hover{
+    color:#00A0C6;
+    text-decoration:none;
+    cursor:pointer;
+}
